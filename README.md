@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Laura Marín Ocón 👋</h1>
+<h1 align="center">¡Hola! Soy Laura Marín 👋</h1>
 <p align="center">
   Estudiante de Ingeniería del Software · Backend · Datos · IA<br>
   Software Engineering student · Backend · Data · AI
@@ -18,7 +18,6 @@
 - Estudio Ingeniería del Software en la Universidad de Málaga.
 - Realicé un Erasmus en South East Technological University.
 - Me interesan el desarrollo backend, los datos y la inteligencia artificial.
-- Estoy abierta a prácticas y oportunidades junior.
 
 </details>
 
@@ -28,14 +27,8 @@
 - I study Software Engineering at the University of Málaga.
 - I completed an Erasmus exchange at South East Technological University.
 - I'm interested in backend development, data, and artificial intelligence.
-- I'm open to internships and junior opportunities.
 
 </details>
-
-## Formación / Education
-
-- **Grado en Ingeniería del Software / BSc in Software Engineering** — Universidad de Málaga · 2023–2027
-- **Erasmus** — South East Technological University · 2025–2026
 
 ## Tech Stack
 
