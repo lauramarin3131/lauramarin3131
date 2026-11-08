@@ -71,8 +71,3 @@
 
 🚴 Ciclismo / Cycling · 🏃 Running · 📚 Lectura / Reading
 
-## Estadísticas de GitHub / GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lauramarin3131&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="Estadísticas de GitHub / GitHub stats">
-</p>
