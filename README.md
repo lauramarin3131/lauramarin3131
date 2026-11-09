@@ -61,11 +61,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello">
 </p>
 
-## Idiomas / Languages
-
-- Español / Spanish
-- Inglés / English — B2
-- Francés / French — B1
 
 ## Intereses / Interests
 
